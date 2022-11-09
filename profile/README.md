@@ -7,7 +7,7 @@ Firefly is an open-source observability solution for serverless functions. Throu
 ## Getting started
 [**Setup the Server**](https://github.com/try-firefly/.github/edit/main/profile/README.md#setup-the-server)
 
-- You'll have to setup a server to host our metrics/traces endpoint. You'll need a single URL to point data to when you run the command line tool later on.
+- You'll have to setup a server to host our metrics/traces endpoint. You'll need a single URL to send data to when you run the command line tool later on.
 
 [**Setup Pipeline Infrastructure**](https://github.com/try-firefly/.github/edit/main/profile/README.md#setup-pipeline-infrastructure)
 
