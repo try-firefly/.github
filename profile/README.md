@@ -1,4 +1,4 @@
-![Firefly logo](https://github.com/try-firefly/.github/blob/main/profile/assets/images/firefly_logo.png)
+![Firefly logo](https://github.com/try-firefly/.github/blob/main/profile/assets/firefly_logo.png)
 
 ## Overview
 
