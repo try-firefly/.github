@@ -1,4 +1,3 @@
-<!-- ![Firefly logo](https://github.com/try-firefly/.github/blob/main/profile/assets/firefly_logo.png) -->
 <a href="https://try-firefly.github.io"><img width="258" alt="firefly-text" src="https://github.com/try-firefly/.github/blob/main/profile/assets/firefly-text.png"></a>
 
 ## Overview
