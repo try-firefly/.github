@@ -20,3 +20,7 @@ Architecture diagram goes here.
 1. [**Setup a server**](https://github.com/try-firefly/firefly-pipeline)
 2. [**Setup the pipeline infrastructure**](https://github.com/try-firefly/firefly-pipeline)
 3. [**Run the Firefly CLI**](https://github.com/try-firefly/firefly-cli)
+
+## Learn more
+
+Check out our case study [here](https://try-firefly.github.io).
