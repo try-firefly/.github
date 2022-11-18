@@ -1,4 +1,4 @@
-<a href="https://try-firefly.github.io"><img width="258" height="70" alt="firefly-text" src="https://github.com/try-firefly/.github/blob/main/profile/assets/firefly-text.png"></a>
+<a href="https://try-firefly.github.io"><img width="220" alt="firefly-text" src="https://github.com/try-firefly/.github/blob/main/profile/assets/firefly-text.png"></a>
 
 ## Overview
 
