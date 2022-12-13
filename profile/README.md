@@ -13,7 +13,7 @@ Firefly is an open-source observability framework. It provides key insights into
 
 ## Architecture
 
-Architecture diagram goes here.
+<a href="https://try-firefly.github.io"><img alt="firefly-architecture" src="https://github.com/try-firefly/.github/blob/main/profile/assets/firefly-architecture.png"></a>
 
 ## Getting started
 
